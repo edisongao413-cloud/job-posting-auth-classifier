@@ -1,0 +1,20 @@
+{
+ "response": "{\"label\": \"blocked\", \"evidence_quote\": \"Internships and full-time University Associate roles are not eligible for U.S. immigration sponsorship, work visa or any other temporary work authorization (i.e. OPT, CPT).\"}",
+ "usage": {
+  "input_tokens": 2056,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 80,
+  "output_tokens_details": {
+   "thinking_tokens": 0
+  },
+  "service_tier": "standard",
+  "inference_geo": "global",
+  "speed": "standard",
+  "stop_reason": "end_turn"
+ }
+}

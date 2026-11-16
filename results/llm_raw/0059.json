@@ -1,0 +1,20 @@
+{
+ "response": "{\"label\": \"blocked\", \"evidence_quote\": \"Clearance: Active Secret Clearance and must maintain the clearance required by the program.\"}",
+ "usage": {
+  "input_tokens": 2378,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 49,
+  "output_tokens_details": {
+   "thinking_tokens": 0
+  },
+  "service_tier": "standard",
+  "inference_geo": "global",
+  "speed": "standard",
+  "stop_reason": "end_turn"
+ }
+}

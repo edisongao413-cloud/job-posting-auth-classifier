@@ -1,0 +1,20 @@
+{
+ "response": "{\"label\": \"blocked\", \"evidence_quote\": \"This position does not offer sponsorship for employment visas. Applicants must be legally authorized to work in The United States without sponsorship now or in the future.\"}",
+ "usage": {
+  "input_tokens": 2184,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 67,
+  "output_tokens_details": {
+   "thinking_tokens": 0
+  },
+  "service_tier": "standard",
+  "inference_geo": "global",
+  "speed": "standard",
+  "stop_reason": "end_turn"
+ }
+}

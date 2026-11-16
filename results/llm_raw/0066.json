@@ -1,0 +1,20 @@
+{
+ "response": "{\"label\": \"blocked\", \"evidence_quote\": \"U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\"}",
+ "usage": {
+  "input_tokens": 2667,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 52,
+  "output_tokens_details": {
+   "thinking_tokens": 0
+  },
+  "service_tier": "standard",
+  "inference_geo": "global",
+  "speed": "standard",
+  "stop_reason": "end_turn"
+ }
+}

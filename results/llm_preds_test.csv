@@ -1,0 +1,123 @@
+id,final_label,split,pred,llm_quote,quote_found_in_posting
+0018,unclear,test,unclear,Students must have work authorization in the U.S,True
+0116,unclear,test,unclear,,False
+0006,blocked,test,blocked,Sponsorship will not be considered for this specific role,True
+0032,open,test,open,Open to candidates with OPT/CPT,True
+0056,unclear,test,unclear,,False
+0066,blocked,test,blocked,"U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance",True
+0070,blocked,test,blocked,"U.S. citizen. This role may require handling export controlled (ITAR, EAR) data.",True
+0071,blocked,test,blocked,Must be eligible to obtain and maintain a Top Secret/SCI U.S Government issued Security Clearance.,True
+0072,blocked,test,blocked,Citizenship Requirement: Must be a U.S. Citizen,True
+0079,blocked,test,blocked,Candidates must be U.S. citizens able to obtain and/or maintain a Department of Defense security clearance as a condition and continuation of employment.,True
+0091,blocked,test,blocked,Must be eligible to work in the U.S. without sponsorship now or in the future.,True
+0104,blocked,test,blocked,Visa sponsorship: Not available,True
+0121,blocked,test,blocked,"At this time, GEICO will not sponsor a new applicant for employment authorization for this position.",True
+0122,unclear,test,unclear,,False
+0124,unclear,test,unclear,,False
+0132,unclear,test,unclear,,False
+0133,unclear,test,unclear,,False
+0135,unclear,test,unclear,,False
+0136,unclear,test,unclear,,False
+0137,unclear,test,unclear,,False
+0138,unclear,test,unclear,,False
+0145,unclear,test,unclear,,False
+0146,unclear,test,unclear,,False
+0148,unclear,test,unclear,,False
+0149,unclear,test,unclear,,False
+0150,unclear,test,unclear,,False
+0002,blocked,test,blocked,we cannot provide employment visa sponsorship for this position now or in the future.,True
+0003,blocked,test,blocked,Harvard University is unable to provide visa sponsorship for this position,True
+0004,blocked,test,blocked,"This role does NOT offer sponsorship of any sort - including OPT VISAs, etc.",True
+0007,blocked,test,blocked,Please be advised that we are unable to offer visa sponsorship for this position at this time.,True
+0008,blocked,test,blocked,Employment eligibility to work with American Express in the United States is required as the company will not pursue visa sponsorship for these positions.,True
+0011,blocked,test,blocked,Fidelity will not provide immigration sponsorship for this position.,True
+0012,open,test,unclear,Limited immigration sponsorship may be available.,True
+0013,open,test,open,"While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skills.",True
+0014,blocked,test,blocked,We do not offer any type of employment-based immigration sponsorship for this program.,True
+0016,blocked,test,blocked,We will only consider candidates who are currently authorized to work in the United States and who will not require sponsorship now or in the future.,True
+0019,open,test,open,Visa sponsorship is available for this position.,True
+0020,blocked,test,blocked,Candidates must be eligible to work in the United States as a U.S Perm Resident or U.S. Citizen.,True
+0021,blocked,test,blocked,We are unable to provide new H-1B sponsorship at this time.,True
+0022,open,test,open,F-1 visa holders with STEM OPT extension are eligible to apply.,True
+0023,blocked,test,blocked,"Candidate must be able to submit verification of his/her legal right to work in the United States, without company sponsorship now or in the future.",True
+0024,blocked,test,blocked,"Internships and full-time University Associate roles are not eligible for U.S. immigration sponsorship, work visa or any other temporary work authorization (i.e. OPT, CPT).",True
+0026,open,test,open,Open to candidates with OPT/CPT,True
+0027,open,test,open,Open to candidates with OPT/CPT,True
+0028,open,test,open,This role is open to candidates on OPT and STEM Visa.,True
+0029,open,test,open,"Cornerstone Research will provide H-1B, H-1B1, E3 and TN visa support to full-time candidates that require visa support.",True
+0030,open,test,open,Work authorization (as shown in Handshake at-a-glance): Eligible for visa sponsorship,True
+0031,open,test,open,Open to candidates with OPT/CPT,True
+0033,open,test,open,Open to candidates with OPT/CPT,True
+0034,open,test,open,"Brattle will provide H-1B, E3 and TN visa support to full-time candidates who require visa support.",True
+0035,unclear,test,unclear,,False
+0037,blocked,test,blocked,California State University San Marcos is not a sponsoring agent for staff or management positions (i.e. H1-B visas).,True
+0038,blocked,test,blocked,Loyola University Maryland does not sponsor employment visas for this position.,True
+0039,blocked,test,blocked,MCCCD does not sponsor individuals for any type of work visas.,True
+0040,unclear,test,unclear,,False
+0041,unclear,test,unclear,,False
+0043,open,test,open,H1B Sponsorship for student's visa,True
+0044,unclear,test,unclear,,False
+0047,unclear,test,unclear,,False
+0048,open,test,open,"Employment visa sponsorship may be considered for qualified candidates, subject to eligibility and applicable requirements.",True
+0049,unclear,test,unclear,,False
+0050,unclear,test,unclear,,False
+0051,blocked,test,unclear,,False
+0052,blocked,test,blocked,Security clearances may only be granted to U.S. citizens.,True
+0053,blocked,test,blocked,"U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contract.",True
+0054,blocked,test,blocked,Ability to obtain a Secret clearance,True
+0057,blocked,test,blocked,"applicant must be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (aka green card holder), (iii) Refugee under 8 U.S.C. § 1157, or (iv) Asylee under 8 U.S.C. § 1158, or be eligible to obtain the required authorizations from the U.S. Department of State.",True
+0058,blocked,test,blocked,Legal work authorization to work in the U.S. on a permanent and ongoing basis without the need for sponsorship now or in the future is required,True
+0059,blocked,test,blocked,Clearance: Active Secret Clearance and must maintain the clearance required by the program.,True
+0060,blocked,test,blocked,MUST BE A U.S. CITIZEN — This position requires the selected candidate to possess the ability to obtain a Secret clearance.,True
+0061,unclear,test,unclear,,False
+0062,blocked,test,blocked,"You must be authorized to work in the US and do not require sponsorship now, or in the future",True
+0063,blocked,test,blocked,An active Top Secret SCI w/Polygraph security clearance is required for this position.,True
+0065,blocked,test,blocked,U.S. Citizen with ability to obtain and maintain a DoD Top Secret/Sensitive Compartmented Information (TS/SCI) clearance and work full time on-site at Offutt AFB,True
+0067,blocked,test,blocked,Applicants must be U.S. citizens.,True
+0068,blocked,test,blocked,Must be a U.S. Citizen and consent to a full background check due to our federal contract requirements.,True
+0069,blocked,test,blocked,Must be a U.S. citizen.,True
+0073,blocked,test,blocked,"persons considered for this position must be either a U.S. Citizen, Permanent Resident (green card holder) or otherwise classifiable as a U.S. person under relevant regulations.",True
+0074,blocked,test,blocked,US Citizenship.,True
+0075,blocked,test,blocked,Authorization to work in the United States on a permanent basis without current or future employer sponsorship.,True
+0076,blocked,test,blocked,Applicants must be U.S. citizens.,True
+0077,blocked,test,blocked,This position requires possession of a Secret Security Clearance issued by the Federal Bureau of Investigation (FBI),True
+0078,blocked,test,blocked,U.S. Citizen with a DoD Top Secret clearance,True
+0080,blocked,test,blocked,Active Secret clearance,True
+0081,blocked,test,blocked,Active Top Secret Clearance with SCI Eligibility,True
+0082,blocked,test,blocked,UDT is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status,True
+0083,blocked,test,blocked,Must be a US Citizen,True
+0085,blocked,test,blocked,PFM is not offering visa sponsorship for this position.,True
+0086,blocked,test,blocked,This position does not provide visa sponsorship.,True
+0088,blocked,test,blocked,the company will not provide new employment authorization sponsorship or immigration-related support.,True
+0089,blocked,test,blocked,This position is not eligible for employment visa sponsorship. Applicants must be authorized to work in the United States without the need for current or future sponsorship.,True
+0090,blocked,test,blocked,Must be legally authorized to work in the United States without sponsorship now or in the future for employment visa status,True
+0094,blocked,test,blocked,Must be eligible to work in the U.S. without sponsorship now or in the future,True
+0096,blocked,test,blocked,"Due to the nature of work performed within our facilities, U.S. citizenship is required.",True
+0099,blocked,test,blocked,"Must be U.S. Persons as defined by ITAR. ITAR defines a U.S. Person as a U.S. Citizen, U.S. Permanent Resident (i.e. ""Green Card Holder""), Political Asylee, or Refugee.",True
+0100,blocked,test,blocked,candidates must be U.S. Citizens or Permanent Resident Card Holder.,True
+0101,unclear,test,unclear,,False
+0105,blocked,test,blocked,National Grid will not be providing visa sponsorship for this position now or in the future.,True
+0106,unclear,test,unclear,,False
+0108,blocked,test,blocked,"Clearance:
+
+- Active Secret Security Clearance.",True
+0109,unclear,test,unclear,,False
+0110,open,test,open,ATC provides H1B sponsorship and related visa support for eligible candidates.,True
+0112,blocked,test,blocked,Please note that visa sponsorship is not available for this position.,True
+0113,blocked,test,blocked,"Please note, we do not offer sponsorship for this role.",True
+0114,unclear,test,unclear,,False
+0115,unclear,test,unclear,,False
+0117,blocked,test,blocked,Applicants must be legally authorized to work in the United States without the need for current or future employment-based visa sponsorship.,True
+0118,unclear,test,unclear,,False
+0119,blocked,test,blocked,applicants must be legally authorized to work in the United States and not require employer sponsored work authorization now or in the future.,True
+0120,unclear,test,unclear,,False
+0123,unclear,test,unclear,,False
+0125,unclear,test,unclear,,False
+0126,blocked,test,blocked,We are unable to sponsor or take over work authorization sponsorship now or in the future for this position.,True
+0127,blocked,test,blocked,Please note that the ability to work in the U.S. without current or future sponsorship is a requirement.,True
+0128,unclear,test,unclear,,False
+0130,blocked,test,blocked,"At this time, Capital One will not sponsor a new applicant for employment authorization for this position.",True
+0134,unclear,test,unclear,,False
+0139,unclear,test,unclear,,False
+0141,unclear,test,unclear,,False
+0143,blocked,test,blocked,Sponsorship for Work Authorization is not available for this posting. Candidates must be authorized to work in the U.S. without restrictions or requiring sponsorship now or in the future.,True

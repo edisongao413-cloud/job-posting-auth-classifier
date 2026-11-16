@@ -1,0 +1,33 @@
+id,final_label,split,pred,llm_quote,quote_found_in_posting
+0084,blocked,dev,blocked,U.S. citizenship is required.,True
+0097,blocked,dev,blocked,This position requires an active U.S. Secret Security Clearance (U.S. Citizenship Required).,True
+0131,unclear,dev,unclear,,False
+0144,unclear,dev,unclear,,False
+0147,unclear,dev,unclear,,False
+0001,blocked,dev,blocked,Visa sponsorship for work authorization is not available for this position now or in the future.,True
+0005,blocked,dev,blocked,Please note: This position is not eligible for visa sponsorship. Applicants must be authorized to work in the United States without the need for current or future sponsorship.,True
+0009,open,dev,open,"Is Sponsorship Available?
+
+Yes",True
+0010,open,dev,open,This role is eligible for visa sponsorship.,True
+0015,blocked,dev,blocked,"we are unable to hire individuals who require, or will require, employment visa sponsorship either now or in the future.",True
+0017,blocked,dev,blocked,Toyota does not offer sponsorship of job applicants for employment-based visas or any other work authorization for this position at this time.,True
+0025,blocked,dev,blocked,U.S. work authorization without need for future sponsorship.,True
+0036,open,dev,open,H1B/Green Card Sponsorship for qualified employee,True
+0042,blocked,dev,blocked,We are unable to sponsor or take over sponsorship of an employment visa at this time.,True
+0045,open,dev,open,Only For International Candidates On OPT/CPT,True
+0046,unclear,dev,unclear,,False
+0055,unclear,dev,unclear,,False
+0064,blocked,dev,blocked,This position does not offer sponsorship for employment visas. Applicants must be legally authorized to work in The United States without sponsorship now or in the future.,True
+0087,blocked,dev,blocked,Applicants must be authorized to work in the United States without current or future employer sponsorship.,True
+0092,blocked,dev,blocked,"Must be legally authorized to work in the United States without sponsorship now, or in the future",True
+0093,blocked,dev,blocked,Applicants must be legally authorized to work in the United States without current or future employer sponsorship.,True
+0095,blocked,dev,blocked,Clearance & Citizenship: Must be a US citizen with the ability to obtain and maintain a DoD secret security clearance.,True
+0098,blocked,dev,blocked,Note: US Citizenship is required for MRPT facility credentials/authorization at this work location.,True
+0102,blocked,dev,blocked,"Veeva does not provide sponsorship for employment visa status (e.g., H-1B, OPT, or TN status) for this employment position.",True
+0103,unclear,dev,unclear,,False
+0107,blocked,dev,blocked,"Must have unlimited work authorization in the United States without the need for employer sponsorship, now or at any time in the future",True
+0111,blocked,dev,blocked,This is not a position for which sponsorship will be provided. Individuals with temporary visas or who need sponsorship now or in the future are not eligible for hire at this time.,True
+0129,unclear,dev,unclear,,False
+0140,unclear,dev,unclear,,False
+0142,unclear,dev,unclear,,False

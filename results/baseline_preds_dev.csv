@@ -1,0 +1,31 @@
+id,final_label,split,pred,matched_text
+0001,blocked,dev,blocked,sponsorship for work authorization is not available
+0005,blocked,dev,blocked,not eligible for visa sponsor
+0009,open,dev,open,Sponsorship Available
+0010,open,dev,open,eligible for visa sponsorship
+0015,blocked,dev,blocked,unable to provide visa sponsor
+0017,blocked,dev,blocked,does not offer sponsor
+0025,blocked,dev,blocked,without need for future sponsorship
+0036,open,dev,open,H1B/Green Card Sponsor
+0042,blocked,dev,blocked,unable to sponsor or take over sponsor
+0045,open,dev,open,Sponsorship will be provided
+0046,unclear,dev,unclear,
+0055,unclear,dev,blocked,Public Trust
+0064,blocked,dev,blocked,does not offer sponsor
+0084,blocked,dev,blocked,U.S. Citizenship is required
+0087,blocked,dev,blocked,without current or future employer sponsorship
+0092,blocked,dev,blocked,without sponsorship
+0093,blocked,dev,blocked,"security clearance, if required"
+0095,blocked,dev,blocked,Must be a US citizen
+0097,blocked,dev,blocked,U.S. Citizenship Required
+0098,blocked,dev,blocked,US Citizenship is required
+0102,blocked,dev,blocked,does not provide sponsor
+0103,unclear,dev,unclear,
+0107,blocked,dev,blocked,without the need for employer sponsorship
+0111,blocked,dev,blocked,not a position for which sponsor
+0129,unclear,dev,unclear,
+0131,unclear,dev,unclear,
+0140,unclear,dev,unclear,
+0142,unclear,dev,unclear,
+0144,unclear,dev,unclear,
+0147,unclear,dev,unclear,

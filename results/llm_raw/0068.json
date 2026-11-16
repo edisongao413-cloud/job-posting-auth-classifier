@@ -1,0 +1,20 @@
+{
+ "response": "{\"label\": \"blocked\", \"evidence_quote\": \"Must be a U.S. Citizen and consent to a full background check due to our federal contract requirements.\"}",
+ "usage": {
+  "input_tokens": 1803,
+  "cache_creation_input_tokens": 0,
+  "cache_read_input_tokens": 0,
+  "cache_creation": {
+   "ephemeral_5m_input_tokens": 0,
+   "ephemeral_1h_input_tokens": 0
+  },
+  "output_tokens": 113,
+  "output_tokens_details": {
+   "thinking_tokens": 61
+  },
+  "service_tier": "standard",
+  "inference_geo": "global",
+  "speed": "standard",
+  "stop_reason": "end_turn"
+ }
+}

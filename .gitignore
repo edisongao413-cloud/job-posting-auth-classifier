@@ -1,0 +1,14 @@
+# Raw posting text belongs to employers; keep it local
+data/postings/
+
+# Secrets
+.env
+
+# Python / Jupyter / macOS
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+
+# Collected raw data (contains full posting text)
+data/raw/

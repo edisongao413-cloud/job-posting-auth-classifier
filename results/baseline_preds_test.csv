@@ -1,0 +1,121 @@
+id,final_label,split,pred,matched_text
+0018,unclear,test,unclear,
+0116,unclear,test,unclear,
+0006,blocked,test,unclear,
+0032,open,test,open,Open to candidates with OPT/CPT
+0056,unclear,test,unclear,
+0066,blocked,test,blocked,"U.S. citizenship is required, as only"
+0070,blocked,test,blocked,export controlled
+0071,blocked,test,blocked,must be a U.S Citizen
+0072,blocked,test,blocked,Must be a U.S. Citizen
+0079,blocked,test,blocked,must be U.S. citizen
+0091,blocked,test,blocked,without sponsorship
+0104,blocked,test,blocked,sponsorship: Not available
+0121,blocked,test,blocked,will not sponsor
+0122,unclear,test,unclear,
+0124,unclear,test,unclear,
+0132,unclear,test,unclear,
+0133,unclear,test,unclear,
+0135,unclear,test,unclear,
+0136,unclear,test,unclear,
+0137,unclear,test,unclear,
+0138,unclear,test,unclear,
+0145,unclear,test,unclear,
+0146,unclear,test,unclear,
+0148,unclear,test,unclear,
+0149,unclear,test,unclear,
+0150,unclear,test,unclear,
+0002,blocked,test,blocked,cannot provide employment visa sponsor
+0003,blocked,test,blocked,unable to provide visa sponsor
+0004,blocked,test,blocked,does NOT offer sponsor
+0007,blocked,test,blocked,unable to offer visa sponsor
+0008,blocked,test,blocked,will not pursue visa sponsor
+0011,blocked,test,blocked,will not provide immigration sponsor
+0012,open,test,open,sponsorship may be available
+0013,open,test,unclear,
+0014,blocked,test,unclear,
+0016,blocked,test,blocked,will not require sponsor
+0019,open,test,open,sponsorship is available
+0020,blocked,test,unclear,
+0021,blocked,test,blocked,unable to provide new H-1B sponsor
+0022,open,test,open,STEM OPT extension are eligible
+0023,blocked,test,blocked,without company sponsorship
+0024,blocked,test,blocked,citizen or permanent resident
+0026,open,test,open,Open to candidates with OPT/CPT
+0027,open,test,open,Open to candidates with OPT/CPT
+0028,open,test,open,open to candidates on OPT
+0029,open,test,open,"H-1B, H-1B1, E3 and TN visa support"
+0030,open,test,open,Eligible for visa sponsorship
+0031,open,test,open,Open to candidates with OPT/CPT
+0033,open,test,open,Open to candidates with OPT/CPT
+0034,open,test,open,"H-1B, E3 and TN visa support"
+0035,unclear,test,unclear,
+0037,blocked,test,blocked,not a sponsor
+0038,blocked,test,blocked,does not sponsor
+0039,blocked,test,blocked,does not sponsor
+0040,unclear,test,unclear,
+0041,unclear,test,unclear,
+0043,open,test,open,H1B Sponsor
+0044,unclear,test,unclear,
+0047,unclear,test,unclear,
+0048,open,test,unclear,
+0049,unclear,test,unclear,
+0050,unclear,test,unclear,
+0051,blocked,test,blocked,U.S. Citizenship is required
+0052,blocked,test,blocked,obtain a security clearance
+0053,blocked,test,blocked,"U.S. citizenship is required, as only"
+0054,blocked,test,unclear,
+0057,blocked,test,blocked,ITAR
+0058,blocked,test,blocked,without sponsorship
+0059,blocked,test,unclear,
+0060,blocked,test,blocked,MUST BE A U.S. CITIZEN
+0061,unclear,test,unclear,
+0062,blocked,test,blocked,do not require sponsor
+0063,blocked,test,blocked,active Top Secret SCI w/Polygraph security clearance
+0065,blocked,test,unclear,
+0067,blocked,test,blocked,must be U.S. citizen
+0068,blocked,test,blocked,Must be a U.S. Citizen
+0069,blocked,test,blocked,Must be a U.S. citizen
+0073,blocked,test,blocked,export control
+0074,blocked,test,blocked,obtain a DoD Secret security clearance
+0075,blocked,test,blocked,without current or future employer sponsorship
+0076,blocked,test,blocked,must be U.S. citizen
+0077,blocked,test,unclear,
+0078,blocked,test,unclear,
+0080,blocked,test,unclear,
+0081,blocked,test,unclear,
+0082,blocked,test,unclear,
+0083,blocked,test,blocked,Must be a US Citizen
+0085,blocked,test,blocked,not offering visa sponsor
+0086,blocked,test,blocked,does not provide visa sponsor
+0088,blocked,test,unclear,
+0089,blocked,test,blocked,not eligible for employment visa sponsor
+0090,blocked,test,blocked,without sponsorship
+0094,blocked,test,blocked,without sponsorship
+0096,blocked,test,blocked,U.S. citizenship is required
+0099,blocked,test,blocked,ITAR
+0100,blocked,test,blocked,must be U.S. Citizen
+0101,unclear,test,unclear,
+0105,blocked,test,blocked,does not now or in the future require sponsor
+0106,unclear,test,unclear,
+0108,blocked,test,blocked,Active Secret Security Clearance
+0109,unclear,test,unclear,
+0110,open,test,open,OPT visas are encouraged
+0112,blocked,test,blocked,sponsorship is not available
+0113,blocked,test,blocked,do not offer sponsor
+0114,unclear,test,unclear,
+0115,unclear,test,unclear,
+0117,blocked,test,unclear,
+0118,unclear,test,unclear,
+0119,blocked,test,blocked,not require employer sponsor
+0120,unclear,test,unclear,
+0123,unclear,test,unclear,
+0125,unclear,test,unclear,
+0126,blocked,test,blocked,unable to sponsor
+0127,blocked,test,blocked,without current or future sponsorship
+0128,unclear,test,unclear,
+0130,blocked,test,blocked,will not sponsor
+0134,unclear,test,unclear,
+0139,unclear,test,unclear,
+0141,unclear,test,unclear,
+0143,blocked,test,blocked,Sponsorship for Work Authorization is not available

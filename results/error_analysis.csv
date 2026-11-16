@@ -1,0 +1,18 @@
+﻿id,method,true_label,predicted,error_type,key_sentence,why_missed
+0054,keyword,blocked,unclear,Clearance named without the word 'security',Ability to obtain a Secret clearance,Rules only match 'security clearance'; 'Secret clearance' slips through
+0059,keyword,blocked,unclear,Clearance named without the word 'security',Active Secret Clearance and must maintain the clearance,Same: no 'security' before 'clearance'
+0080,keyword,blocked,unclear,Clearance named without the word 'security',Active Secret clearance,Same
+0081,keyword,blocked,unclear,Clearance named without the word 'security',Active Top Secret Clearance with SCI Eligibility,Same
+0014,keyword,blocked,unclear,Too many words between 'not' and 'sponsor',We do not offer any type of employment-based immigration sponsorship,48 characters between 'not' and 'sponsor'; rule allows 30
+0082,keyword,blocked,unclear,Too many words between 'not' and 'sponsor',not currently hiring individuals ... who now or in the future require sponsorship,Negation is far from 'sponsorship'
+0088,keyword,blocked,unclear,Too many words between 'not' and 'sponsor',will not provide new employment authorization sponsorship,Gap exceeds 30-character window
+0117,keyword,blocked,unclear,Too many words between 'not' and 'sponsor',without the need for current or future employment-based visa sponsorship,'without' rule also limited to 30 characters
+0065,keyword,blocked,unclear,"Requirement stated as a qualification, not with 'required/must'",U.S. Citizen with ability to obtain ... TS/SCI clearance,Citizenship listed as a bullet with no 'required' or 'must'
+0078,keyword,blocked,unclear,"Requirement stated as a qualification, not with 'required/must'",U.S. Citizen with a DoD Top Secret clearance,Same
+0006,keyword,blocked,unclear,Unanticipated phrasing,Sponsorship will not be considered for this specific role,Negation comes after 'sponsorship'; 'not be considered' not listed
+0020,keyword,blocked,unclear,Unanticipated phrasing,eligible to work ... as a U.S Perm Resident or U.S. Citizen,Abbreviation 'Perm' and reversed order
+0077,keyword,blocked,unclear,Unanticipated phrasing,requires possession of a Secret Security Clearance,'possession of' not among the expected verbs
+0013,keyword,open,unclear,Welcoming signal in unlisted wording,While Etsy supports visa sponsorship,"Rules know 'visa support', not 'supports visa sponsorship'"
+0048,keyword,open,unclear,Welcoming signal in unlisted wording,Employment visa sponsorship may be considered for qualified candidates,'may be considered' not listed
+0051,llm,blocked,unclear,Genuinely ambiguous posting,U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions,"Conditional sentence; posting also says 'Clearance required for start: No'. Flagged uncertain during labeling. Original posting is now offline, so the label cannot be re-checked"
+0012,llm,open,unclear,AI too cautious on a hedged yes,Limited immigration sponsorship may be available,"Labeler reads 'may be available' as a yes; LLM said unclear, yet called the similar 0048 ('may be considered') open"
